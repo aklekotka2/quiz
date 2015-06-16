@@ -26,7 +26,7 @@ var Quiz={
    losujPytania: function () {
    	    var wylosowanePytania=[];
    	    var wylosowano;
-   	    var czyWstawic=true;
+   	    var czyWstawic;
 
         var i=0;
    	    while( i<5){
